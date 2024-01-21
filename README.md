@@ -1,5 +1,6 @@
-# darth-vader-component
-A component creation project using a job vacancy created by Darth Vader himself!
+# Darth Vader Component 
+
+A component creation project using a job vacancy created by Darth Vader himself! <br>
 Master Yoda also has a message for you! 🌌⚔️🤖🚀
 
-![image](https://github.com/luanasa/darth-vader-component/assets/38231334/38165c46-06d7-4cac-84aa-e586ab6b2d78)
+![frame_generic_dark (1)](https://github.com/luanasa/darth-vader-component/assets/38231334/5ad706d9-6220-4e3f-a70f-8f5e45bddb3c)
